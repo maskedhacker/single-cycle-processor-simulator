@@ -1,0 +1,7 @@
+In cycle 1: Write $0 Error
+In cycle 9: Number Overflow
+In cycle 81: Number Overflow
+In cycle 85: Write $0 Error
+In cycle 85: Number Overflow
+In cycle 85: Address Overflow
+In cycle 85: Misalignment Error
